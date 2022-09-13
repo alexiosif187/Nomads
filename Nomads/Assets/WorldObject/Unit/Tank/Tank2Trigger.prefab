@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &5895998950815490314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2827266683734616216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c39c592f66ad694bbc61e6581d6ba9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectName: 
+  buildImage: {fileID: 0}
+  cost: 0
+  sellValue: 0
+  maxHitPoints: 0
+  hitPoints: 0
+  weaponRange: 10
+  weaponRechargeTime: 1
+  weaponAimSpeed: 1
+  teleportCooldown: 1
+  detectionRange: 20
+  moveSpeed: 0
+  rotateSpeed: 0
+--- !u!1001 &545517436688721402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2354935267792555362, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_Name
+      value: Tank2Trigger
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354935267792555364, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2354935267792555365, guid: 0a9fe413e25fa3142b66687a7bfcddbe, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 0a9fe413e25fa3142b66687a7bfcddbe, type: 3}
+--- !u!1 &2827266683734616216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2354935267792555362, guid: 0a9fe413e25fa3142b66687a7bfcddbe,
+    type: 3}
+  m_PrefabInstance: {fileID: 545517436688721402}
+  m_PrefabAsset: {fileID: 0}
