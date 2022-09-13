@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 0e1bff31cfbb92e40921e2f10e066261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - resourceSkin: {fileID: 11400000, guid: 4de5419e7b1993e4cae7ed3bce4d3fc3, type: 2}
+  - ordersSkin: {fileID: 11400000, guid: 94b18a4bb09eb444c9350d6f4c04ce16, type: 2}
+  - selectBoxSkin: {fileID: 11400000, guid: 72328a958be5dd147a68f66043fc559b, type: 2}
+  - activeCursor: {fileID: 2800000, guid: 2f13ee2191fa60a448b16f9a77104ab2, type: 3}
+  - selectCursor: {fileID: 2800000, guid: 88807b566a32d9e49bf8ebd6a196b18b, type: 3}
+  - leftCursor: {fileID: 2800000, guid: fffc1198e397ed74bbff4b8ec290dfd9, type: 3}
+  - rightCursor: {fileID: 2800000, guid: ce06766f304b55a49bfa11c2219dc658, type: 3}
+  - upCursor: {fileID: 2800000, guid: 843ee1545f6c6aa4d8ea49a3ae8c64da, type: 3}
+  - downCursor: {fileID: 2800000, guid: 8ae36f6d0bbe3e7409cf78f336b5473d, type: 3}
+  - mouseCursorSkin: {instanceID: 0}
+  - buttonHover: {fileID: 2800000, guid: 574ac78abe97d8f40a97f7b6aac38420, type: 3}
+  - buttonClick: {instanceID: 0}
+  - buildFrame: {instanceID: 0}
+  - buildMask: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
